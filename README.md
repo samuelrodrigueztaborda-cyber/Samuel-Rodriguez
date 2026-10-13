@@ -1,11 +1,7 @@
 <!-- BANNER PRINCIPAL -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Linux%20%26%20Open%20Source&fontSize=35&fontColor=ffffff&animation=fadeIn"
-    alt="Banner Linux y Open Source"
-    width="100%"
-  />
+  <img src="./banner.png" alt="Banner Linux y código abierto" width="100%">
 </p>
 
 <h3 align="center">
