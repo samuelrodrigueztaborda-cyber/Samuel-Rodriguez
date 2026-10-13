@@ -127,6 +127,34 @@ Estoy interesado en aprender, colaborar y participar en proyectos que me permita
 
 ⭐ Si alguno de mis proyectos te resulta interesante, puedes explorarlo y compartir tus sugerencias.
 
+
+
+## **🛠️ Stack Tecnológico y Herramientas**
+<!-- BANNER PRINCIPAL -->
+
+<div align="center">
+  <img src="assets/banner.png"
+       alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE"
+       width="100%">
+</div>
+
+<h1 align="center">🐧 Linux & Open Source</h1>
+
+<h3 align="center">
+  Explorando sistemas operativos, desarrollo de software y tecnologías libres
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
+</p>
+
+
+
+
 ---
 
 *“Cada línea de código es una oportunidad para aprender, resolver problemas y construir algo mejor.”*
