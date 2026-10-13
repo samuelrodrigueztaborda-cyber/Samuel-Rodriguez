@@ -1,3 +1,22 @@
+<!-- BANNER PRINCIPAL -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Linux%20%26%20Open%20Source&fontSize=35&fontColor=ffffff&animation=fadeIn"
+    alt="Banner Linux y Open Source"
+    width="100%"
+  />
+</p>
+
+<h3 align="center">
+  Explorando sistemas operativos, desarrollo de software y tecnologías libres.
+</h3>
+---
+
+
+
+
+
 # 👋 ¡Hola! Soy Samuel Rodríguez Taborda
 
 ### 💻 Aprendiz de Análisis y Desarrollo de Software | Desarrollador Web Full-Stack en formación
@@ -130,27 +149,6 @@ Estoy interesado en aprender, colaborar y participar en proyectos que me permita
 
 
 ## **🛠️ Stack Tecnológico y Herramientas**
-<!-- BANNER PRINCIPAL -->
-
-<div align="center">
-  <img src="assets/banner.png"
-       alt="Banner animado de Linux, Ubuntu, Raspberry Pi, Debian y openSUSE"
-       width="100%">
-</div>
-
-<h1 align="center">🐧 Linux & Open Source</h1>
-
-<h3 align="center">
-  Explorando sistemas operativos, desarrollo de software y tecnologías libres
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
-</p>
 
 
 
@@ -158,3 +156,39 @@ Estoy interesado en aprender, colaborar y participar en proyectos que me permita
 ---
 
 *“Cada línea de código es una oportunidad para aprender, resolver problemas y construir algo mejor.”*
+
+
+
+
+
+## **🛠️ Stack Tecnológico y Herramientas**
+
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samuelrodrigueztaborda-cyber&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=es"
+    alt="Estadísticas de GitHub"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrodrigueztaborda-cyber&layout=compact&theme=tokyonight&hide_border=true&locale=es"
+    alt="Lenguajes más utilizados"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrodrigueztaborda-cyber&theme=tokyonight&hide_border=true&locale=es"
+    alt="Racha de contribuciones de GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=samuelrodrigueztaborda-cyber&style=for-the-badge&color=blueviolet"
+    alt="Visitas al perfil"
+  />
+</p>
